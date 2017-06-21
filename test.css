@@ -1,0 +1,14 @@
+.cardDetail-dan  {
+    float: left;
+    width: 60%;
+    font-size: 18px;
+    margin-left: 3%;
+    color: red;
+}
+.cardDetail-dan-number  {
+    float: right;
+    font-size: 18px;
+    margin-right: 5%;
+    text-align: right;
+    color: green;
+}
